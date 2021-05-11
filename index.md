@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Digital Marketing Company
 
-You can use the [editor on GitHub](https://github.com/prosguruji/Digital-Marketing-Firm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Search Engine Optimization (SEO) is a set of methods aimed at improving the ranking of a website in search engine listings, and is a subset of Search Engine Marketing. We research your market and competition. This includes which key phrases are the most relevant to your products or services and are being most often used by consumers in the search engines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our team of social media marketing experts has over 15 years of experience. We possess the cutting edge social media strategy for the growth of your business. We offer unique social media content that engages your customers and enables better branding of your business. Unlike other companies, we can design your Facebook page cover, profile graphics and provide social listening and engagement.
 
-### Markdown
+### SEO  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
